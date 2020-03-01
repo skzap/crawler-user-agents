@@ -4097,4 +4097,13 @@
     ],
     "url": "https://tweetedtimes.com/"
   }
+  ,
+  {
+    "pattern": "Iframely", 
+    "addition_date": "2020/03/01", 
+    "instances": [
+      "Iframely/0.7.3 (+http://iframely.com/;)"
+    ],
+    "url": "https://iframely.com/docs/block-iframely"
+  }
 ]
